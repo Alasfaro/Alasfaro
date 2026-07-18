@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍%20Toronto%2C%20Ontario%2C%20Canada-4C1D95?style=flat-square" />
+<img src="https://img.shields.io/badge/📍%20Mississauga%2C%20Ontario%2C%20Canada-4C1D95?style=flat-square" />
 
 <br/><br/>
 
@@ -148,26 +148,6 @@ Built and shipped a full-stack e-commerce platform for [Petra Ave Market](https:
 | 📈 **Research Progression** | Promoted twice in 12 months — Assistant → Coordinator → Research Lead |
 | 🚢 **Production Freelance Work** | Sole developer of a client e-commerce platform serving real customers |
 | 👥 **Team Leadership** | Directed a multidisciplinary research team across planning, mentorship, and hiring |
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alasfaro&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alasfaro&theme=tokyo-night&hide_border=true&color=8B5CF6&line=7C3AED&point=A78BFA&area=true" width="100%" />
 
 </div>
 
