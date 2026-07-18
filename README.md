@@ -72,7 +72,7 @@ Full-stack event and form management platform for the **McMaster Engineering Soc
 
 **Stack:** `TypeScript` `React` `Next.js` `React Native` `Fastify` `PostgreSQL` `Drizzle ORM` `Stripe`
 
-🔗 [Live Platform](https://mes-event-user.up.railway.app/)
+🔗 [Video Demo](https://youtu.be/onX4VHbR3n4)
 
 </details>
 
@@ -94,13 +94,15 @@ Full-stack e-commerce platform built on the **MERN stack**, managing backend ope
 
 **Stack:** `MongoDB` `Express` `React` `Node.js`
 
-🔗 [Repository](https://github.com/Alasfaro/mern-ecom-store) · [Petra Ave Market (Live)](https://petraavemarket.com/)
+🔗 [Petra Ave Market (Live)](https://petraavemarket.com/)
 
 </details>
 
 <div align="center">
 
-*More projects — Flutter apps, a Java mesh-based island generator, and hardware-software sustainability builds — on my [portfolio](https://omar-alasfar.netlify.app/#projects).*
+*More projects on my [portfolio](https://omar-alasfar.netlify.app/#projects).*
+
+
 
 </div>
 
